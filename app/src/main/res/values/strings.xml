@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Generic Api</string>
+    <string name="noInternetConnection">No Internet Connection!</string>
+    <string name="loading">Loading...</string>
+    <string name="success">Success</string>
+    <string name="retry">Retry</string>
+</resources>
